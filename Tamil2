@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CODTECH Internship Task 2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>CODTECH</h1>
+        <h2>INTERNSHIP TASK - 2</h2>
+        <h3>Collaborative Design Workflow</h3>
+
+        <div class="box">
+            <h4>Instructions</h4>
+            <ul>
+                <li>Create a collaborative design in Figma</li>
+                <li>Share project with team members</li>
+                <li>Use comments for feedback</li>
+                <li>Maintain version history</li>
+            </ul>
+        </div>
+
+        <div class="box">
+            <h4>Deliverables</h4>
+            <ul>
+                <li>Screenshots of collaboration</li>
+                <li>Documentation of workflow</li>
+            </ul>
+        </div>
+
+        <p class="footer">
+            Completion certificate will be issued on internship end date.
+        </p>
+    </div>
+
+</body>
+</html>
